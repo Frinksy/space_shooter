@@ -1,0 +1,6 @@
+#!/Users/adamblanchet/PycharmProjects/shooter/venv/bin/python
+
+from cx_Freeze import main
+
+main()
+
