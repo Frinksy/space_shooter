@@ -1,8 +1,6 @@
 import pygame
 from pygame.locals import *
 from classes import *
-from pygame.sdlmain_osx import InstallNSApplication
-InstallNSApplication()
 
 pygame.mixer.pre_init(44100, -16, 1, 512)
 pygame.mixer.init()
